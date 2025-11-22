@@ -1,0 +1,3 @@
+name=str(input("enter the name: "))
+age=int(input("enter the age: "))
+print(name," will be ",age," next year")
